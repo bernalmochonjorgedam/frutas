@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Almacenimiento</string>
+    <string name="cargar_frutas">Cargar Frutas</string>
+    <string name="lista_de_frutas">Lista de Frutas</string>
+    <string name="detalles_de_la_fruta">Detalles de la Fruta</string>
+    <string name="az_car">Azúcar:</string>
+    <string name="calor_as">Calorías:</string>
+    <string name="grasas">Grasas:</string>
+    <string name="prote_nas">Proteínas:</string>
+</resources>

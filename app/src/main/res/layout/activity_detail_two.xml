@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="16dp"
+              android:background="@android:color/white">
+
+    <TextView
+            android:id="@+id/nombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_red_dark"
+            android:layout_marginBottom="8dp"/>
+
+    <TextView
+            android:id="@+id/familia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@android:color/holo_blue_dark"
+            android:layout_marginBottom="16dp"/>
+
+    <TextView
+            android:id="@+id/hidratos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="4dp"/>
+
+    <TextView
+            android:id="@+id/proteinas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="4dp"/>
+
+    <TextView
+            android:id="@+id/calorias"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="4dp"/>
+
+    <TextView
+            android:id="@+id/azucar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="4dp"/>
+
+    <TextView
+            android:id="@+id/grasa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="4dp"/>
+
+</LinearLayout>
